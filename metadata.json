@@ -1,0 +1,5 @@
+{
+  "name": "Particle Morph",
+  "description": "An interactive particle system that morphs between a heart shape and user-inputted text with fluid physics and mouse interactions.",
+  "requestFramePermissions": []
+}
